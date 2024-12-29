@@ -1,0 +1,48 @@
+00:53:01.203 [ - ] Creando el archivo 'bitmap.dat' 	 ->filesystem.go:100
+00:53:01.204 [ - ] Creando el archivo 'bloques.dat' 	 ->filesystem.go:120
+00:53:01.204 [ i ] --- Comienzo ejecución del filesystem --- 	 ->filesystem.go:49
+00:53:01.204 [ - ] Corriendo filesystem en 127.0.0.1:8082 	 ->filesystem.go:54
+00:55:51.896 [ - ] MemoryDump solicitado 	 ->handlers.go:16
+00:55:51.896 [ - ] Cant max bloques: 1024 	 ->writeFile.go:40
+00:55:51.896 [ - ] Bloque seleccionado: 0 	 ->writeFile.go:135
+00:55:51.896 [ - ] Bloque seleccionado: 1 	 ->writeFile.go:135
+00:55:51.896 [ - ] Bloque seleccionado: 2 	 ->writeFile.go:135
+00:55:51.896 [ i ] ## Bloque asignado: 0 	 ->writeFile.go:168
+00:55:51.896 [ i ] ## Bloque asignado: 1 	 ->writeFile.go:168
+00:55:51.896 [ i ] ## Bloque asignado: 2 	 ->writeFile.go:168
+00:55:51.896 [ - ] MemoryDump completado 	 ->writeFile.go:171
+00:55:52.097 [ i ] ## Archivo Creado: 16-0-2024-12-21T00:55:51.dmp - Tamaño: 96 	 ->writeFile.go:102
+00:55:52.097 [ i ] ## Fin de solicitud - Archivo: 16-0-2024-12-21T00:55:51.dmp 	 ->handlers.go:46
+00:56:17.067 [ - ] MemoryDump solicitado 	 ->handlers.go:16
+00:56:17.067 [ - ] Cant max bloques: 1024 	 ->writeFile.go:40
+00:56:17.067 [ - ] Bloque seleccionado: 3 	 ->writeFile.go:135
+00:56:17.067 [ - ] Bloque seleccionado: 4 	 ->writeFile.go:135
+00:56:17.067 [ - ] Bloque seleccionado: 5 	 ->writeFile.go:135
+00:56:17.067 [ i ] ## Bloque asignado: 3 	 ->writeFile.go:168
+00:56:17.067 [ i ] ## Bloque asignado: 4 	 ->writeFile.go:168
+00:56:17.067 [ i ] ## Bloque asignado: 5 	 ->writeFile.go:168
+00:56:17.067 [ - ] MemoryDump completado 	 ->writeFile.go:171
+00:56:17.267 [ i ] ## Archivo Creado: 45-0-2024-12-21T00:56:17.dmp - Tamaño: 96 	 ->writeFile.go:102
+00:56:17.267 [ i ] ## Fin de solicitud - Archivo: 45-0-2024-12-21T00:56:17.dmp 	 ->handlers.go:46
+00:56:26.303 [ - ] MemoryDump solicitado 	 ->handlers.go:16
+00:56:26.303 [ - ] Cant max bloques: 1024 	 ->writeFile.go:40
+00:56:26.303 [ - ] Bloque seleccionado: 6 	 ->writeFile.go:135
+00:56:26.303 [ - ] Bloque seleccionado: 7 	 ->writeFile.go:135
+00:56:26.303 [ - ] Bloque seleccionado: 8 	 ->writeFile.go:135
+00:56:26.303 [ i ] ## Bloque asignado: 6 	 ->writeFile.go:168
+00:56:26.303 [ i ] ## Bloque asignado: 7 	 ->writeFile.go:168
+00:56:26.303 [ i ] ## Bloque asignado: 8 	 ->writeFile.go:168
+00:56:26.303 [ - ] MemoryDump completado 	 ->writeFile.go:171
+00:56:26.503 [ i ] ## Archivo Creado: 66-0-2024-12-21T00:56:26.dmp - Tamaño: 96 	 ->writeFile.go:102
+00:56:26.503 [ i ] ## Fin de solicitud - Archivo: 66-0-2024-12-21T00:56:26.dmp 	 ->handlers.go:46
+00:56:34.323 [ - ] MemoryDump solicitado 	 ->handlers.go:16
+00:56:34.323 [ - ] Cant max bloques: 1024 	 ->writeFile.go:40
+00:56:34.323 [ - ] Bloque seleccionado: 9 	 ->writeFile.go:135
+00:56:34.323 [ - ] Bloque seleccionado: 10 	 ->writeFile.go:135
+00:56:34.323 [ - ] Bloque seleccionado: 11 	 ->writeFile.go:135
+00:56:34.323 [ i ] ## Bloque asignado: 9 	 ->writeFile.go:168
+00:56:34.323 [ i ] ## Bloque asignado: 10 	 ->writeFile.go:168
+00:56:34.323 [ i ] ## Bloque asignado: 11 	 ->writeFile.go:168
+00:56:34.323 [ - ] MemoryDump completado 	 ->writeFile.go:171
+00:56:34.523 [ i ] ## Archivo Creado: 100-0-2024-12-21T00:56:34.dmp - Tamaño: 96 	 ->writeFile.go:102
+00:56:34.523 [ i ] ## Fin de solicitud - Archivo: 100-0-2024-12-21T00:56:34.dmp 	 ->handlers.go:46
